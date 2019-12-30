@@ -15,6 +15,7 @@
 		8E03F51423BA716500602EF8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E03F51223BA716500602EF8 /* LaunchScreen.storyboard */; };
 		8E03F51F23BA716500602EF8 /* _231diceShakeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E03F51E23BA716500602EF8 /* _231diceShakeTests.swift */; };
 		8E03F52A23BA716500602EF8 /* _231diceShakeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E03F52923BA716500602EF8 /* _231diceShakeUITests.swift */; };
+		8E03F53823BA81FD00602EF8 /* shake.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8E03F53723BA81FD00602EF8 /* shake.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8E03F52523BA716500602EF8 /* 1231diceShakeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 1231diceShakeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E03F52923BA716500602EF8 /* _231diceShakeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _231diceShakeUITests.swift; sourceTree = "<group>"; };
 		8E03F52B23BA716500602EF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E03F53723BA81FD00602EF8 /* shake.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shake.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				8E03F50723BA716200602EF8 /* AppDelegate.swift */,
 				8E03F50923BA716200602EF8 /* SceneDelegate.swift */,
 				8E03F50B23BA716200602EF8 /* ViewController.swift */,
+				8E03F53723BA81FD00602EF8 /* shake.mp3 */,
 				8E03F50D23BA716200602EF8 /* Main.storyboard */,
 				8E03F51023BA716500602EF8 /* Assets.xcassets */,
 				8E03F51223BA716500602EF8 /* LaunchScreen.storyboard */,
@@ -235,6 +238,7 @@
 				8E03F51423BA716500602EF8 /* LaunchScreen.storyboard in Resources */,
 				8E03F51123BA716500602EF8 /* Assets.xcassets in Resources */,
 				8E03F50F23BA716200602EF8 /* Main.storyboard in Resources */,
+				8E03F53823BA81FD00602EF8 /* shake.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
